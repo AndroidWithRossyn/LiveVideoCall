@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "10888253932",
+    "project_id": "realvideocall-eef38",
+    "storage_bucket": "realvideocall-eef38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10888253932:android:74b8921b364f87f8e2b0c9",
+        "android_client_info": {
+          "package_name": "com.appsians.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10888253932-k4qjrg3b7ud6am410408bk351ij98iob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsians.videocall",
+            "certificate_hash": "4485208cdcb89ff74208f128e7e81a1ee6901df1"
+          }
+        },
+        {
+          "client_id": "10888253932-bujf3k8tmk9e9jde94psr7u90m5tak5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQowLFag3zsgbbytMBZ7GFMtrltjlpDmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10888253932-bujf3k8tmk9e9jde94psr7u90m5tak5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

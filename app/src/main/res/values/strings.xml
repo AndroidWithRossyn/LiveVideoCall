@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LiveVideoCall</string>
+    <string name="signin">Sign in with Google</string>
+    <string name="startconversation">Start conversation</string>
+    <string name="startTxt">Connect on video call, Audio call or chat with strangers</string>
+    <string name="videocall">Video Call</string>
+    <string name="audiocall">Audio Call</string>
+    <string name="coins">Coins</string>
+    <string name="earncoin">Earn Coins</string>
+    <string name="advice">Advice</string>
+    <string name="advice_txt"><![CDATA[Audio & video call, chat]]></string>
+</resources>
